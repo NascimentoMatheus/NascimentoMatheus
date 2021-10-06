@@ -1,4 +1,4 @@
-## Hey 🖖 eu me chamo Matheus Nascimento
+### Hey 🖖 eu me chamo Matheus Nascimento
 
 <!-- INICIO Contador de visitas -->
 <div align="center">
@@ -9,10 +9,10 @@
 <p align="center">
 <img align="" height='120px' src="https://i.gifer.com/origin/af/af2cc4e6cd466cb15f6c06fe0da4b87c.gif" />
 </p>
-<hr>
 <!-- FIM Contador de visitas -->
 
 <!-- INICIO GitHub Stats -->
+ <h2 align="left">Github Stats</h2>
 <div align="center">
   <a href="https://github.com/NascimentoMatheus">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=nascimentomatheus&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -43,7 +43,7 @@
   <a href = "mailto:matheusmfdonascimento@gmail.com"><img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" /></a>
    <a href="https://www.instagram.com/mathaaus/" target="_blank"><img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"/></a>
   <a href="https://www.facebook.com/matheusnascimentommfn/" target="_blank"><img align="left" alt="Md. Shakil Hossain | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" /></a>
- 
+    
 ![Snake animation](https://github.com/nascimentomatheus/nascimentomatheus/blob/output/github-contribution-grid-snake.svg)
  
 </div>
