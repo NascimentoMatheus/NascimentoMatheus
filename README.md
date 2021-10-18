@@ -15,7 +15,7 @@
  <h2 align="left">Github Stats</h2>
 <div align="center">
   <a href="https://github.com/NascimentoMatheus">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=nascimentomatheus&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nascimentomatheus&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentomatheus&layout=compact&langs_count=7&theme=merko"/>
     <img heinght="130cm" src= "https://github-readme-streak-stats.herokuapp.com/?user=nascimentomatheus&theme=merko"
 </div><br>
@@ -39,10 +39,10 @@
 <h2 align="left">Redes Sociais 📲</h2>  
   </div>
  <div align="left">
-   <a href="https://www.linkedin.com/in/matheusmfn/" target="_blank"><img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" /></a> 
-  <a href = "mailto:matheusmfdonascimento@gmail.com"><img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" /></a>
-   <a href="https://www.instagram.com/mathaaus/" target="_blank"><img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"/></a>
-  <a href="https://www.facebook.com/matheusnascimentommfn/" target="_blank"><img align="left" alt="Md. Shakil Hossain | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" /></a>
+   <a href="https://www.linkedin.com/in/matheusmfn/" target="_blank"><img align="left" alt="Matheus Nascimento | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" /></a> 
+  <a href = "mailto:matheusmfdonascimento@gmail.com"><img align="left" alt="Matheus Nascimento | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" /></a>
+   <a href="https://www.instagram.com/mathaaus/" target="_blank"><img align="left" alt="Matheus Nascimento | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"/></a>
+  <a href="https://www.facebook.com/matheusnascimentommfn/" target="_blank"><img align="left" alt="Matheus Nascimento | Facebook" width="24px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" /></a>
     
 ![Snake animation](https://github.com/nascimentomatheus/nascimentomatheus/blob/output/github-contribution-grid-snake.svg)
  
